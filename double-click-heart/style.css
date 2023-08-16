@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  overflow: hidden;
+  margin: 0;
+  background-color: #000;
+}
+
+h3 {
+  margin-bottom: 0;
+  text-align: center;
+  color:#fff;
+}
+
+small {
+  display: block;
+  text-align: center;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.loveMe {
+  height: 400px;
+  width: 300px;
+  background: url("https://iaahbr.tmgrup.com.tr/fb9164/0/0/0/0/0/0?u=http://i.ahaber.com.tr/galeri/yasam/en-iyi-en-guzel-kedi-fotograflari/5.jpg&mw=730")
+    no-repeat center center/cover;
+  margin: auto;
+  cursor: pointer;
+  max-width: 100%;
+  position: relative;
+  box-shadow: 0 14px 42px rgba(255, 255, 255, 0.75);
+  overflow: hidden;
+  border-radius: 50px;
+}
+
+.loveMe .fa-heart {
+  position: absolute;
+  animation: grow 0.8s linear;
+  transform: translate(-50%, -50%) scale(0);
+}
+
+@keyframes grow {
+  to {
+    transform: translate(-50%, -50%) scale(10);
+    opacity: 0;
+  }
+}
