@@ -7,20 +7,8 @@
   <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
-  <a href="https://www.w3.org/TR/html52/" target="_blank">
-  <img alt="HTML 5" src="https://img.shields.io/badge/HTML-5-orangered.svg"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-  <img alt="CSS 3" src="https://img.shields.io/badge/CSS-3-darkblue.svg"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-yellow.svg"/>
-</a>
 <a href="https://nodejs.org/en/" target="_blank">
   <img alt="Node.js Version" src="https://img.shields.io/badge/node-v18.17.0-darkgreen.svg"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img alt="Developed with Visual Studio Code" src="https://img.shields.io/badge/Developed%20with-Visual%20Studio%20Code-purple"/>
 </a>
   <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/JS_apps/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkred"/>
@@ -31,27 +19,42 @@
 </h3>
 <br>
 
+This project contains six different projects that I made to improve my HTML, CSS and Javascript skills. These projects helped me to improve my skills in HTML, CSS and Javascript and contributed to my personal development.
 
-This project includes 6 projects I have done to improve myself in HTML - CSS and Javascipt.
+1. Double Click Heart: A project that allows you to like a photo on social media platforms when you double click on it. [live-demo](https://js-apps-bx5v.vercel.app/)  
 
-Double Click Heart -> A project that makes you like the photo on social media platforms when double clicked.
+2. Sign In: A project that creates the user login screen. [live-demo](https://js-apps-6.vercel.app/)  
 
-Sıgn In -> User login screen
+3. Random Choice Picker: A project that randomly selects one of the variables you enter. [live-demo](https://js-apps-5.vercel.app/)     
 
-Random Choice Picker -> selects a random one of the variables you enter
+4. Password Generator: A project that generates a password suitable for the features you select. [live-demo](https://js-apps-2-np5c.vercel.app/)   
 
-Password Generator -> creates a password that meets the selected properties
+5. Kinetic Loader: A customised loading page. [live-demo](https://js-apps-iota.vercel.app/) 
 
-Kinetic Loader -> customized loading page
-
-Hoverboard -> a simple game
+6. Hoverboard: A simple game. [live-demo](https://js-apps-2.vercel.app/)  
 
 
-<h2 style="color: #0081a7;"> Features </h2>
+<h2 style="colour: #0081a7;"> Features </h2>
 
-- HTML, CSS, JavaScript
-- Responsive
-- Clean Code 
+Here are some of the main features of this project:
+
+- HTML, CSS, JavaScript: This project is primarily built using HTML, CSS and JavaScript, making it compatible with web browsers and ensuring a smooth user experience.
+
+- Responsive: The web application is designed to be responsive, ensuring that it works well on different screen sizes and devices. Users can enjoy a consistent and user-friendly experience regardless of how they access the application.
+
+- Clean code: The project follows best practices for code organisation and cleanliness, making it easier to maintain and evolve.
+
+For a detailed visual representation of the application's user interface, please refer to the [Figma design file](https://www.figma.com/file/jl62wanA1RBOmlHB12RpAi/Intern?type=design&node-id=0%3A1&mode=design&t=uY4VtOwxKemZjn4M-1). This design gives an idea of how the application should look and feel.
+
+
+
+<h2>Installation of the project</h2>
+
+<pre>
+<code>
+git clone https://github.com/EmrahFidan/JS_apps.git
+</code>
+</pre>
 
 
 <h2 style="color: #0081a7;"> Screenshots </h2>
@@ -64,29 +67,9 @@ Hoverboard -> a simple game
     <img src="https://github.com/EmrahFidan/educationApp/assets/114583209/4ac55995-8591-4829-9496-4e9547c4a062" alt="Screenshot" width="200" />
 </div>
 
-<h2 style="color: #0081a7;"> Adds</h2>
-
-
-| File Name | Topics                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Double Click Heart    | [live-demo](https://js-apps-bx5v.vercel.app/)        |
-| Sıgn In    | [live-demo](https://js-apps-6.vercel.app/)                                  |
-| Random Choice Picker    |[live-demo](https://js-apps-5.vercel.app/)                             |
-| Password Generator   |[live-demo](https://js-apps-2-np5c.vercel.app/)                                             |
-| Kinetic Loader    | [live-demo](https://js-apps-iota.vercel.app/)       |
-| Hoverboard    | [live-demo](https://js-apps-2.vercel.app/)       |
-
-
-
-
-
-<h2 style="color: #0081a7;"> Thanks </h2>
-
-- [@EmrahFidan](https://github.com/EmrahFidan) for writing, research, design, and developer. 
 
 
 <h2 style="color: #0081a7;"> Feedback </h2>
-
 
 If you have any feedback, please contact me at: emrahfdn.work@gmail.com
 
